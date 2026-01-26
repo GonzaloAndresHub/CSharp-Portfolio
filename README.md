@@ -38,10 +38,10 @@ structured thinking, and problem-solving skills**.
 ---
 
 ### 🏥 Healthcare
-- Simulation and management systems for healthcare processes, developed in C# with structured business logic.  
+- Simulation and management systems for healthcare processes, developed in C# with structured business logic.
+- Systems oriented toward management and simulation of healthcare sector processes.  
 👉 https://github.com/NibirMarduk88/--CSharp-Healthcare-System
 
-  Systems oriented toward management and simulation of healthcare sector processes.
 
 ---
 
