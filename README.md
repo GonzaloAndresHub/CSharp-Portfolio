@@ -46,8 +46,10 @@ structured thinking, and problem-solving skills**.
 ---
 
 ### 💳 Finance
-- *(Coming soon)*  
-  Projects related to financial logic, credit control, and transaction validation.
+-Financial evaluation and management system developed in C#, focused on structured business logic and maintainable code design.
+- Includes modules for loan simulation (personal, mortgage, vehicle), credit control, and transaction validation, ensuring accurate financial calculations and reusable components.
+- Designed to support scalable financial processes, with emphasis on clarity, automation, and professional documentation.
+👉 https://github.com/GonzaloAndresHub/Financial-System-CSharp.git
 
 ---
 
